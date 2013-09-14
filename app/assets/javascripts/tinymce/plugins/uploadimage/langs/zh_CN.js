@@ -1,4 +1,4 @@
-tinyMCE.addI18n('zh-cn', {
+tinyMCE.addI18n('zh_CN', {
   'Insert an image from your computer': "\u4e0a\u4f20\u56fe\u7247",
   'Insert image': "\u63d2\u5165\u56fe\u7247",
   'Choose an image': "\u9009\u62e9\u56fe\u7247",
